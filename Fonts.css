@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "iranYekan";
+  src: url(./assets/Fonts/BYekan+.ttf) format(ttf);
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "iranYekanbold";
+  src: url(./assets/Fonts/BYekan+Bold.ttf) format(ttf);
+  font-style: normal;
+  font-weight: 900;
+}
+body,
+button,
+input {
+  font-family: "iranYekan";
+}
+
+p {
+  line-height: 40px;
+  font-size: .9rem;
+}
+
+h1 {
+  font-family: "IRANSansWeb";
+  font-weight: 900;
+  font-size: 1.4rem;
+}

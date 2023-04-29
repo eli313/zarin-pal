@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.port": 5500,
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "prettier.singleQuote": true,
+    "prettier.endOfLine": "auto",
+}
